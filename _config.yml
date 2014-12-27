@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            NOOBS
+title:            NOOBZ
 locale:           en_US
 url:              http://localhost:4000
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Euclides Fernandes
   avatar: efernandes.jpg
   bio: "Hummm... I'm just a simple 'Kiddo' who loves to code, play basketball(even I'm short) and enjoy my fam/friends.
 FYI, I'm normal too... Cheers!"
   email: 3uclides.fernandes@gmail.com
-  disqus-shortname:
+  disqus-shortname: 3fernandes
   twitter: 3fernandesJr
   facebook: #username
   google:
